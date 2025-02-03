@@ -1,18 +1,1 @@
-<!-- Основний файл index.html -->
-<!DOCTYPE html>
-<html lang="uk">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Мій сайт</title>
-    <link rel="stylesheet" href="styles/style.css">
-</head>
-<body>
-    <header>
-        <h1>Ласкаво просимо на мій сайт</h1>
-    </header>
-    <main>
-        <p>Це базова структура сторінки.</p>
-    </main>
-</body>
-</html>
+https://static1.srcdn.com/wordpress/wp-content/uploads/2023/05/star-wars-grogu-looking-cute.jpg
